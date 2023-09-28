@@ -1,4 +1,4 @@
-# Ball
+# random_ball
 
 https://bharathikannan-mca-23.github.io/random_ball/
 
